@@ -1,0 +1,4 @@
+node_modules/
+credentialsDontPost/.env
+.env
+credentialsDontPost/
